@@ -1,0 +1,22 @@
+[
+    {
+        "descripcion": "Cambio de Computadores Punto de Ventas ( Alameda y Delicias)",
+        "estado": "Solucionado"
+    },
+    {
+        "descripcion": "Devolucion equipos Milenio Pc",
+        "estado": "Solucionado"
+    },
+    {
+        "descripcion": "Reinstalacion de 3 Toma pedidos (Alameda y Delicias)",
+        "estado": "Solucionado"
+    },
+    {
+        "descripcion": "Instalacion Sonido Auditorio Alameda ",
+        "estado": "Solucionado"
+    },
+    {
+        "descripcion": "Supervision Alfresco",
+        "estado": "En proceso"
+    }
+]
